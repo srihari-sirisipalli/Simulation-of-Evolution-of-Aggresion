@@ -1,0 +1,13 @@
+
+dove=0
+hawk=1
+
+0 food = death
+½ food = 50% chance of death
+1 food = survival
+1 ½ food = 50% chance to reproduce
+2 food = 100% chance to reproduce
+
+Initial Each agent probability to cooperate or defect = 50/50
+
+Reproduce--->Child will have same character has parent due to genes/brought like that
